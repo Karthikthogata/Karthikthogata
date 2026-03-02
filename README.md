@@ -17,9 +17,9 @@ I am a Salesforce Developer specializing in building scalable backend logic, sea
 * Refining system security models through advanced sharing rules and permission sets.
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Add your LinkedIn URL here]
-* **Trailhead:** [Add your Trailblazer.me URL here]
-* **Email:** [Your Email Address]
+* **LinkedIn:** http://linkedin.com/in/karthik-thogata-lingam
+* **Trailhead:** https://www.salesforce.com/trailblazer/qdh2nc8jkwovtrr8ad
+* **Email:** Karthikthogata9@gmail.com
 
 ---
 ⭐️ *From custom Apex logic to declarative automation, I love solving complex business problems on the Salesforce platform.*<!--
@@ -27,12 +27,11 @@ I am a Salesforce Developer specializing in building scalable backend logic, sea
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... architecting robust Salesforce to SAP integrations and building custom Lightning Web Components (LWC) for Service Cloud.
+- 🌱 I’m currently learning ... advanced business analytics, machine learning concepts, and data mining techniques to bring more intelligence into CRM platforms.
+- 👯 I’m looking to collaborate on ... open source Salesforce utilities, complex API integration patterns, and scalable Apex trigger frameworks.
+- 🤔 I’m looking for help with ... optimizing large scale asynchronous Apex processes and exploring new patterns for state management in LWC.
+- 💬 Ask me about ... Salesforce Service Cloud architecture, REST/SOAP web services, and translating complex business requirements into automated solutions.
+- 📫 How to reach me: ... Connect with me on LinkedIn or drop me an email at Karthikthogata9@gmail.com.
+- ⚡ Fun fact: ... When I'm not debugging backend code or deploying metadata, I'm probably out cruising in my Dodge Charger.
 -->
