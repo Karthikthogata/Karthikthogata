@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Karthik 👋
 
 ### Salesforce Service Cloud Specialist & Developer
 
