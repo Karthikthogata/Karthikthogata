@@ -21,10 +21,6 @@ I am a Salesforce Developer specializing in building scalable backend logic, sea
 * **Trailhead:** https://www.salesforce.com/trailblazer/qdh2nc8jkwovtrr8ad
 * **Email:** Karthikthogata9@gmail.com
 
----
-⭐️ *From custom Apex logic to declarative automation, I love solving complex business problems on the Salesforce platform.*<!--
-**Karthikthogata/Karthikthogata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... architecting robust Salesforce to SAP integrations and building custom Lightning Web Components (LWC) for Service Cloud.
